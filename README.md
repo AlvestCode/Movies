@@ -4,4 +4,4 @@ In this repository you will find an exercise of different queries in a MongoDB d
 
 Among the files you will find:
 - js file with the queries
-- 
+- json with all the data
